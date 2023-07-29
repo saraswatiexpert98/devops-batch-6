@@ -10,4 +10,6 @@ head
 git log --oneline
 git log --oneline--pretty
 git config --global user.name "NAME"
-git config --global user.email "Emailname.com" 
+git config --global user.email "Emailname.com"
+git checkout -b "new branch name"
+ 
