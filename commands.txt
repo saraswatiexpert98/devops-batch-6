@@ -6,3 +6,8 @@ git status
 git rm --cached
 git restore
 git checkout
+head
+git log --oneline
+git log --oneline--pretty
+git config --global user.name "NAME"
+git config --global user.email "Emailname.com" 
