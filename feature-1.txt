@@ -1,3 +1,1 @@
-this is a new feature one
-
-added more function in feature one
+this is a cool feature
